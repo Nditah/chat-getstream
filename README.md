@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Tutorial 
+
+
+1. `npx create-react-app getstream` to bootstrap a new react project
+2. Intall the dependencies `npm i stream-chat stream-chat-react  --legacy-peer-deps`
+
+
+## Further Read
+
+- https://getstream.io/chat/react-chat/tutorial/
+- 
